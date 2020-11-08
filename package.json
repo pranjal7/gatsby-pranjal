@@ -1,0 +1,51 @@
+{
+  "name": "@pranjal/gatsby-theme-bootstrap-portfolio",
+  "version": "1.0.3-beta6",
+  "main": "index.js",
+  "author": "pranjal091994@live.com (Pranjal Bhatnagar)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pranjal/gatsby-theme-bootstrap-portfolio.git"
+  },
+  "homepage": "www.pranjal.uk/",
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "gatsby-theme",
+    "bootstrap",
+    "portfolio",
+    "gatsby-plugin-mdx",
+    "gatsby-plugin-react-helmet",
+    "gatsby-plugin-react-svg",
+    "gatsby-plugin-sharp",
+    "gatsby-remark-images",
+    "gatsby-source-filesystem",
+    "react-bootstrap",
+    "react-helmet"
+  ],
+  "peerDependencies": {
+    "gatsby": "^2.20.32",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "dependencies": {
+    "@mdx-js/mdx": "^1.5.9",
+    "@mdx-js/react": "^1.5.9",
+    "bootstrap": "^4.4.1",
+    "gatsby-plugin-mdx": "^1.1.11",
+    "gatsby-plugin-react-helmet": "^3.2.5",
+    "gatsby-plugin-react-svg": "^3.0.0",
+    "gatsby-plugin-sharp": "^2.5.7",
+    "gatsby-remark-images": "^3.2.6",
+    "gatsby-source-filesystem": "^2.2.5",
+    "mkdirp": "^1.0.4",
+    "react-bootstrap": "^1.0.0-beta.17",
+    "react-helmet": "^6.0.0"
+  },
+  "devDependencies": {
+    "gatsby": "^2.20.32",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
